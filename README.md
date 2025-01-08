@@ -26,7 +26,7 @@ This is a Spring Boot application that manages an address book. It allows you to
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/thirochas/address-book.git
+   git clone https://github.com/thirochas/addressbook-api.git
    cd address-book
    ```
 
